@@ -35,3 +35,6 @@
         }
     });
   ```
+
+  ### Paper Patch
+  *  Only implement plugin API, try to avoid MC optimization patches, you can use optimization mods instead, we need to ensure the compatibility of mods, because Papper is vanilla and does not consider mods
